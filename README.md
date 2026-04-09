@@ -2,4 +2,4 @@
 
 🚀 Back-end Developer passionate about solving problems with code.  
 💻 Skilled in Golang, PHP, Java, C#, SQL, Python and more.  
-📚 Undergratuate in Information Systems | Lifelong learner in tech.  
+📚 Graduated in Information Systems | Lifelong learner in tech.  
